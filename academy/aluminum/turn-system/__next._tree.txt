@@ -1,5 +1,5 @@
-:HL["/futuruss-preview-sanya/_next/static/chunks/3d-rfbuonp5bu.css","style"]
-:HL["/futuruss-preview-sanya/_next/static/chunks/3qd-9rtlbtgvs.css","style"]
+:HL["/futuruss-preview-sanya/_next/static/chunks/3d-rfbuonp5bu-ghp2.css","style"]
+:HL["/futuruss-preview-sanya/_next/static/chunks/3qd-9rtlbtgvs-ghp2.css","style"]
 :HL["/futuruss-preview-sanya/_next/static/media/TTFirsNeue_Bold-s.p.2arbcfl-pk_q5.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/futuruss-preview-sanya/_next/static/media/TTFirsNeue_DemiBold-s.p.3-ub7q1cbjpj9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/futuruss-preview-sanya/_next/static/media/TTFirsNeue_ExtraBold-s.p.3g4xpmdxt3onf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
