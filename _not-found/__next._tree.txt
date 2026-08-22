@@ -1,3 +1,3 @@
-:HL["/futuruss-preview-sanya/_next/static/chunks/3d-rfbuonp5bu-ghp2.css","style"]
-:HL["/futuruss-preview-sanya/_next/static/chunks/3qd-9rtlbtgvs-ghp2.css","style"]
+:HL["/futuruss-preview-sanya/_next/static/chunks/3d-rfbuonp5bu-ghp3.css","style"]
+:HL["/futuruss-preview-sanya/_next/static/chunks/3qd-9rtlbtgvs-ghp3.css","style"]
 0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Z_JxJ0wy5BKXC6SdjhyFI"}
